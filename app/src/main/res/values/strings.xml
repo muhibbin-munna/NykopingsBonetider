@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nyköpings Bönetider</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="city">City</string>
+    <string name="fajr">Fajr</string>
+
+    <string name="dohr">Zuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="menu_prayertimes">Prayer Times</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shorook">Sunrise</string>
+    <string name="month"><b>Month</b></string>
+</resources>
